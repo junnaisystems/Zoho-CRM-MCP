@@ -1,0 +1,15 @@
+# Core dependencies
+mcp>=1.1.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Development dependencies (uncomment if needed)
+# pytest>=7.4.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# isort>=5.12.0
+# flake8>=6.0.0
+# mypy>=1.5.0
+# pre-commit>=3.4.0
