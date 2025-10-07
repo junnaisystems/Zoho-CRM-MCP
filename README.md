@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **🌐 Website**: [junnaisystem.com](https://junnaisystem.com)
-- **📧 Email**: [support@junnaisystem.com](mailto:support@junnaisystem.com)
+- **📧 Email**: [jennifer@junnaisystem.com](mailto:jennifer@junnaisystem.com)
 - **🐛 Issues**: [Report bugs via GitHub Issues](https://github.com/junnaisystems/zoho-crm-mcp/issues)
 - **📖 Documentation**: See this README and inline code documentation
 - **💬 Contact**: [Get in touch](https://junnaisystem.com/contact)

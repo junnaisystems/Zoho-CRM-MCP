@@ -5,7 +5,7 @@ description = "A comprehensive Model Context Protocol server for Zoho CRM integr
 readme = "README.md"
 license = { text = "MIT" }
 authors = [
-    { name = "JunnAI", email = "support@junnaisystem.com" }
+    { name = "JunnAI", email = "jennifer@junnaisystem.com" }
 ]
 keywords = ["zoho", "crm", "mcp", "ai", "integration"]
 classifiers = [
